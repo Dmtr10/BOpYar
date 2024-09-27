@@ -6,3 +6,6 @@ class Heroes():
         self.description = description
 
 
+Tanos = Heroes(Name="Tanos",place="Kyiv",description="Violet,big,bald man")
+print(Tanos)
+
